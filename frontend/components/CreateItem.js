@@ -43,7 +43,6 @@ class CreateItem extends Component {
     }
 
     uploadFile = async e => {
-        console.log('upload File...');
         const files = e.target.files
         const data = new FormData()     // Javascriptの標準api（データを扱うための）
         data.append('file', files[0])
