@@ -4,4 +4,4 @@
 
 __FrontEnd__: React / React-Apollo / Apollo-Client / Styled Components
 
-__BackEnd__: GraphQL / Next.js / Prisma / JWT 
+__BackEnd__: GraphQL / GraphQL Yoga / Next.js / Prisma / JWT 
